@@ -1,5 +1,5 @@
 # iyf-s10-week-05-Caleb565656
-# Week {Number}: {Project Title}
+# Week {5}: {DOM Manipulation}
 
 ## Author
 - **Name:** Caleb Saiuni
